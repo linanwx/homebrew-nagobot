@@ -3,7 +3,7 @@ class Nagobot < Formula
   homepage "https://github.com/linanwx/nagobot"
   url "https://github.com/linanwx/nagobot.git",
       tag:      "v0.1.0",
-      revision: "HEAD"
+      revision: "1291264d486b5bf544579db57603ab10a84a2b14"
   license "MIT"
 
   depends_on "go" => :build
