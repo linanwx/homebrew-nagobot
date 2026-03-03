@@ -2,8 +2,8 @@ class Nagobot < Formula
   desc "AI bot framework with multi-channel support"
   homepage "https://github.com/linanwx/nagobot"
   url "https://github.com/linanwx/nagobot.git",
-      tag:      "v0.1.1",
-      revision: "b60af578c705261c755e17557238a9cb55001b4e"
+      tag:      "v0.1.2",
+      revision: "370644365134f8208e7321243bcc3dc6fba57eac"
   license "MIT"
 
   depends_on "go" => :build
